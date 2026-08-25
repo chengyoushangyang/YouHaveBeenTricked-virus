@@ -1,6 +1,8 @@
 """
 作者:诚由上阳
 author:chengyoushangyang
+版权所有 [2026] [诚由上阳]
+Copyright [2026] [chengyoushangyang]
 """
 import os
 import tkinter as tk

@@ -36,7 +36,7 @@
 只有满足全部才能进行简单运行↓
 
 ### 简单运行
-只需要下载[exe文件](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/releases/tag/rickrock),双击打开就行了
+只需要下载[exe文件](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/releases/tag/rickroll),双击打开就行了
 
 ### 运行源码
 #### 先安装[python](https://python.org/)3.12及以上版本(推荐python3.12)

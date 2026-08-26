@@ -18,7 +18,7 @@
 ### 该病毒会产生如下效果:
 - 篡改壁纸
 - 修改音量
-- 打开一个rickrock的网页
+- 打开一个rickroll的网页
 - 打开一个全是"你被骗了"文本的文本文件
 - 大量弹窗
 - 鼠标随机移动
@@ -37,7 +37,8 @@
 #### 只有满足全部才能进行[简单运行](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E7%AE%80%E5%8D%95%E8%BF%90%E8%A1%8C)或[运行源码](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E8%BF%90%E8%A1%8C%E6%BA%90%E7%A0%81)
 
 ### 简单运行
-只需要下载[exe文件](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/releases/tag/rickroll),双击打开就行了
+#### 只需要下载[exe文件](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/releases/tag/rickroll),双击打开就行了
+#### 注意:exe文件由auto-py-to-exe打包,所以大小较大
 
 ### 运行源码
 #### 先安装[python](https://python.org/)3.12及以上版本(推荐python3.12)

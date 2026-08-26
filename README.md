@@ -34,7 +34,7 @@
 - 操作系统中有notepad,cmd这些系统自带软件
 - 操作系统中有edge,chrome等能浏览现代网页的浏览器(浏览器需要能正常访问bilibili)
 - 操作系统已经联网,可访问Internet
-#### 只有满足全部才能进行[简单运行](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E7%AE%80%E5%8D%95%E8%BF%90%E8%A1%8C)
+#### 只有满足全部才能进行[简单运行](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E7%AE%80%E5%8D%95%E8%BF%90%E8%A1%8C)或[运行源码](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E8%BF%90%E8%A1%8C%E6%BA%90%E7%A0%81)
 
 ### 简单运行
 只需要下载[exe文件](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/releases/tag/rickroll),双击打开就行了

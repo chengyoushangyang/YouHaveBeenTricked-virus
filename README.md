@@ -33,7 +33,8 @@
 - 操作系统为官方完整版的windows10及以上系统
 - 操作系统中有notepad,cmd这些系统自带软件
 - 操作系统中有edge,chrome等能浏览现代网页的浏览器(浏览器需要能正常访问bilibili)
-只有满足全部才能进行[简单运行](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E7%AE%80%E5%8D%95%E8%BF%90%E8%A1%8C)
+- 操作系统已经联网,可访问Internet
+#### 只有满足全部才能进行[简单运行](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus#%E7%AE%80%E5%8D%95%E8%BF%90%E8%A1%8C)
 
 ### 简单运行
 只需要下载[exe文件](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/releases/tag/rickroll),双击打开就行了

@@ -66,18 +66,4 @@ python main.py
 
 ### 由于本源码较烂,想要自定义只能自己往上面加代码
 
-### 示例
-
-#### 如果你需要把下面的循环次数改成20次
-```
-for i in range(50):
-    with open(f"{desktop_path}\\你被骗了{i+1}.txt", "a", encoding="utf-8") as f:
-        f.write("你被骗了"*15)
-```
-#### 可以改成这样
-```
-for i in range(20):
-    with open(f"{desktop_path}\\你被骗了{i+1}.txt", "a", encoding="utf-8") as f:
-        f.write("你被骗了"*15)
-```
-###### (好吧,这个示例是烂了点)
+### 您可以查看os库的官方文档以添加内容

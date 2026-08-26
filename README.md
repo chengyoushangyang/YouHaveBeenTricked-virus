@@ -12,6 +12,7 @@
 ## 简单介绍
 ### YouHaveBeenTricked-virus是一个关于rickroll的恶搞病毒,通过各种弹窗以实现恶搞的效果
 ### 注意:该病毒不会对系统进行实质性的破坏,恶搞程序并非恶意病毒,如果因为其他原因导致系统出现损坏,本作者并不负责
+### 如果出现BUG,可以提交[Issue](https://github.com/chengyoushangyang/YouHaveBeenTricked-virus/issues)
 
 ## 病毒效果
 ### 该病毒会产生如下效果:
